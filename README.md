@@ -1,5 +1,3 @@
-# teste-tecnico-Target
-
 # Questões resolvidas usando C#:
 
 1) Observe o trecho de código abaixo: int INDICE = 13, SOMA = 0, K = 0;
