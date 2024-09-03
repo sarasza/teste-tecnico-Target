@@ -13,4 +13,4 @@ while (k < indice)
 Console.WriteLine(soma);
 
 
-RESULTADO: 91
+RESULTADO: SOMA = 91
